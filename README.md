@@ -11,19 +11,26 @@ This system developed will reduce the manual work and avoid redundant data. By m
 #--------------------------------INTRODUCTION:--------------------------------------------------
 #Background: 
 In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation and closure as well as the guidance of the project team’s operations towards achieving all the agreed upon goals within the set scope, time, quality and budget standards.
+
 #Objectives:-------
 The main objective of the application is to automate the existing   system of manually maintain the records of all transactions.
+
 #Purpose:---------
 Cricket Management Software is a software application maintains the records related so cricket sport players. It is also take care of money transaction at the organization. It includes money collection to the organization by different sources.
+
 #Scope:-----------
 This application can be used by the organization to manage cricket sport data effectively. 
 Organization of Report
+
 #References:------
+
 The Overall Description:
+
 In this system we tried to make an encouragement to players who are interested.
 We developers give our best.
 Product perspective:
 Product functions
+
 Types of accessing modules eg: administrator login
     User characteristic:
     For ex. We make this software like a history the more you go deeper you got more mysteries.
